@@ -1,0 +1,17 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "A twitter bot to manage my \"legit\" twitter account.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "nodejs",
+    "twitter-bot"
+  ],
+  "author": "Marlene Oliveira",
+  "license": "MIT"
+}
