@@ -5,19 +5,18 @@ A twitter bot that has ["Create a Simple Twitter Bot with Node.js"](https://hack
 # Methodology used
 The app code is stored in three files:
 
-  - **index.html** - contains the HTML of the app page.
-  - **css/style.css** - contains the CSS needed to make the app look pretty.
-  - **js/index.js** - the JavaScript code that gives the app its functionality.
+  - **package.js** - stores info about the project (name, version, dependencies, etc).
+  - **bot.js** - contains the code that controls the bot.
+  - **config.js** - saves the configurations needed to run the bot (consumer keys, among others).
   
 ## Tech
-* [AngularJS] - Javascript based framework used to implement either MVC or MVVM architectures.
-* [Angular Material] - Angular Material is both a UI Component framework and a reference implementation of Google's Material Design Specification.
+* [NodeJS] - 
+* [twit] - 
+* [Twitter] -
 
 ## Execute App
 
-In your favorite browser, open:
 
-[https://m-oliv.github.io/TEA/](https://m-oliv.github.io/TEA/)
 
 ## License
 
@@ -28,5 +27,6 @@ MIT
 
    
    [git-repo-url]: <https://github.com/m-oliv/TEA.git>
-   [AngularJS]: <https://angularjs.org/>
-   [Angular Material]: <https://material.angularjs.org/latest/>
+   [NodeJS]: <https://nodejs.org/en/>
+   [twit]: <https://www.npmjs.com/package/twit>
+   [Twitter]: <https://twitter.com/>

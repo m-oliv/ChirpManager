@@ -13,5 +13,8 @@
     "twitter-bot"
   ],
   "author": "Marlene Oliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
 }
